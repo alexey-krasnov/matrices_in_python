@@ -34,18 +34,14 @@ python -m venv my_env
 source my_env/bin/activate  # On Windows, use `my_env\Scripts\activate`
 ```
 
-#### 2.2 Use conda
-A) Download Miniconda for Linux or  Miniforge3 for MacOS
-```sh
-wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh
-bash Miniconda3-latest-Linux-x86_64.sh
-```
+#### 2.2 Or use conda
+A) Download Miniforge3
     
 ```sh
 wget https://github.com/conda-forge/miniforge/releases/latest/download/Miniforge3-MacOSX-arm64.sh
 bash Miniforge3-MacOSX-arm64.sh
 ```
-and follow instructions. See the documentation for [Miniconda](https://docs.conda.io/projects/miniconda/en/latest/miniconda-install.html) and [Miniforge](https://github.com/conda-forge/miniforge) for more information.
+and follow instructions. See the documentation for  [Miniforge](https://github.com/conda-forge/miniforge) for more information.
     
 B) Create new Conda Environment with python 3.12
 ```sh
