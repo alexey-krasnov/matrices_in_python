@@ -2,9 +2,17 @@
 
 This project contains a list of Jupyter Notebooks that explains and demonstrates the basics of Matrices in Python. The notebooks includes theoretical explanations as well as practical examples.
 
+## References to the articles
+- [All you need to know about the basics of Matrices in Python: Part 1](https://medium.com/@alexeykrasnov1989/all-you-need-to-know-about-the-basics-of-matrices-in-python-part-1-ea9dc958d56e)
+
+
+- [All you need to know about the basics of Matrices in Python: Part 2](https://medium.com/@alexeykrasnov1989/all-you-need-to-know-about-the-basics-of-matrices-in-python-part-2-5b2d66796ac9)
+
 ## Project Structure
 
 - Part I: `Matrices_Part_1.ipynb`: the notebook provides Python code snippets that exercise matrix properties: matrix addition, scalar multiplication, matrix multiplication, and the identity matrix.
+
+- Part II `Matrices_Part_2.ipynb`: th not provides Python code snippets that exercise next concepts: the determinant of a matrix, properties of the determinant of a matrix, minor and cofactors of a matrix.
 
 ## Prerequisites
 
@@ -56,7 +64,7 @@ pip install -r requirements.txt
 jupyter lab
 ```
 
-## Open the `Matrices_Part_1.ipynb` notebook and run cell by cell.
+## Open the one of the notebook files and run cell by cell.
 
 ## Author
 [Dr. Aleksei Krasnov](https://github.com/alexey-krasnov)
