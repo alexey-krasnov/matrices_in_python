@@ -64,7 +64,7 @@ jupyter lab
 
 ## Author
 [Dr. Aleksei Krasnov](https://github.com/alexey-krasnov)
-email: alexeykrasnov1989@gmail.com
+email: dr.aleksei.krasnov@gmail.com
 
 Feel free to contribute, report issues, or provide feedback!
 
